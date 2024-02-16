@@ -15,6 +15,8 @@ gem "bcrypt"
 
 gem "jwt"
 
+gem "blueprinter"
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
